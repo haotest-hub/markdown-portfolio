@@ -9,6 +9,6 @@
 2. Paper
 3. Sizzer
 4. Rock
-  1. Hard rock
-  2. Soft rock
+    1. Hard rock
+    2. Soft rock
 5. Guitar
